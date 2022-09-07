@@ -7,9 +7,13 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "utilities",
-        "basic",
-        "functions"
+        "filter",
+        "unique",
+        "sorting",
+        "iban validation",
+        "email ",
+        "validation",
+        "arrays"
     ],
     "author": "Allauddin Yousafxai",
     "license": "ISC",
