@@ -15,10 +15,10 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Sprinkle7/utils.git"
+        "url": "git+https://github.com/Sprinkle7/aduse.git"
     },
     "bugs": {
-        "url": "https://github.com/Sprinkle7/utils/issues"
+        "url": "https://github.com/Sprinkle7/aduse/issues"
     },
-    "homepage": "https://github.com/Sprinkle7/utils#readme"
+    "homepage": "https://github.com/Sprinkle7/aduse#readme"
 }
