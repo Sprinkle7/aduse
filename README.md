@@ -1,26 +1,26 @@
-# Chuphsa  📝  
+# Aduse  📝  
 Everyday use functions.
 
 ## Installation 🚀  
 
 Via npm:
 
-    $ npm install chuspha
+    $ npm install aduse
 
 ## Usage
 
 ```js
-    cont chuspha = require('chupsha');
+    cont aduse = require('aduse');
 
     var toBeCapitalized = 'hello world';
     // Capitalize String
-    console.log(chupsha.cap(toBeCapitalized));
+    console.log(aduse.cap(toBeCapitalized));
 
 ```
 ## OR
 
 ```js
-    const { cap } = require('chupsha');
+    const { cap } = require('aduse');
 
     var toBeCapitalized = 'hello world';
     // Capitalize String
